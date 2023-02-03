@@ -1,0 +1,79 @@
+.aa{
+	  text-align:start;   
+}
+.bb{
+	 text-align:end;
+}
+.cc{
+	  text-align:center;
+}
+.dd{
+	  text-align:justify;
+}
+.ee{
+	  text-decoration:underline;
+}
+.ff{
+	  text-decoration:line-through;
+}
+.gg{
+	  text-decoration:underline dotted;
+}
+.hh{
+	  text-decoration:underline dotted red;
+}
+.ii{
+	  text-decoration:green wavy underline;
+}
+.jj{
+	   text-decoration:underline overline;
+}
+.kk{
+	text-transform:capitalize;
+}
+.ll{
+       text-transform:uppercase;	   
+}
+.mm{
+text-transform:lowercase;
+}
+.nn{
+       text-transform:full-width;
+}
+.oo{
+	   text-transform:full-size-kana;
+}
+.pp{
+	   word-spacing:1rem;
+}
+.qq{
+	   word-spacing:4px;
+}
+.rr{
+	  word-spacing:-.4ch;
+}
+.ss{
+	   font-family:georgia,serif;
+}
+.uu{
+	   font-family:"gill sans",sans-serif;
+}
+.vv{
+	   font-family:sans-serif;
+}
+.ww{ 
+       font-family:serif;
+}
+.xx{
+	    font-family:cursive;
+}
+.yy{
+	     font-family:system-ui;
+}
+.abc{
+	   background-color:#9DF1DF;
+	   text-align:center;
+}
+h2{
+	  background-color:#F5EA5A;
+}
